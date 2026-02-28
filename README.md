@@ -1,8 +1,6 @@
-# CsharpYAs-
+# CsharpStartpoint
 Para optativa
-## Trabajo administrado por:
+## Plantilla administrada por:
 -Aramid Mauricio Monsalve
-## Trabajo realizado por:
+## Creada por:
 -Aramid Mauricio Monsalve
-## Para ser calificado por:
--Juan Esteban Angulo Uribe
