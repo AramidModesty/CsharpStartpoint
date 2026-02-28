@@ -10,6 +10,7 @@ namespace HelloWorld{
             var name=Console.ReadLine();
             Console.WriteLine($"Hello {name}");
             var yourKey=objProg.KeyTester();
+            Console.WriteLine($"Your key is {yourKey}");
         }
         private System.ConsoleKey KeyTester()
         {
