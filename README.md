@@ -1,9 +1,6 @@
 #CsharpStartpoint
-Para optativa
+Para optativa 2026 del Instituto Tecnológico Metropolitano (ITM)
+##Plantilla administrada y creada por:
+-Aramid Mauricio Monsalve Usuga
 
-##Plantilla administrada por:
--Aramid Mauricio Monsalve
-
-##Creada por:
--Aramid Mauricio Monsalve
-#Esta plantilla esta sujeta a cambios o inclusive a ser borrada.
+Esta plantilla esta sujeta a cambios y puede a su vez ser borrada
