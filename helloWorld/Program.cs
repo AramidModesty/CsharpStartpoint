@@ -1,25 +1,16 @@
-﻿using System.Dynamic;
+﻿using System.ComponentModel;
+using System.Dynamic;
 using System.Globalization;
 using System.Linq.Expressions;
 using System.Runtime.InteropServices.Marshalling;
 using System.Xml;
-/*Data type*/
+using HiValidator;
+/*Data int*/
 // The next code is made by Aramid for when asking user to input values
-var valInt = new validateNum<int>();
-var objControl = new systemControl();
-Console.WriteLine("Type your name");
-var name = Console.ReadLine() ?? "";
-Console.WriteLine($"Hello {name}, please press a key");
-var yourKey = objControl.KeyTester();
-Console.WriteLine($"Your key is {yourKey}");
-Console.WriteLine("Type your age");
-var age=0;
-var age = int.Parse(Console.ReadLine() ?? "0");
-Console.WriteLine("Type your birthday in the format of MM/DD/YYYY");
-var birthday = DateOnly.Parse(Console.ReadLine() ?? "01/01/2000");
-var person = new Persona(name, age, birthday) { Name = name };
 
-class validateNum <type> where type:struct{
+namespace HiValidator
+{
+    class validateInt{
     // Sample method, the thing <var> is for generic variables and the "where"
     // statement makes the type only receive struct type, being every number like character.
     public type input(string text="", type lInf=null, type lSup=null, string error="Not valid number")//Like the one from python
