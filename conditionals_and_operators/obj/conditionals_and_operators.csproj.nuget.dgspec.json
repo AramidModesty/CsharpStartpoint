@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/aramid/Proyectos/Optativa/Csharp/helloWorld/helloWorld.csproj": {}
+    "/home/aramid/Proyectos/Optativa/Csharp/conditionals_and_operators/conditionals_and_operators.csproj": {}
   },
   "projects": {
-    "/home/aramid/Proyectos/Optativa/Csharp/helloWorld/helloWorld.csproj": {
+    "/home/aramid/Proyectos/Optativa/Csharp/conditionals_and_operators/conditionals_and_operators.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/aramid/Proyectos/Optativa/Csharp/helloWorld/helloWorld.csproj",
-        "projectName": "helloWorld",
-        "projectPath": "/home/aramid/Proyectos/Optativa/Csharp/helloWorld/helloWorld.csproj",
+        "projectUniqueName": "/home/aramid/Proyectos/Optativa/Csharp/conditionals_and_operators/conditionals_and_operators.csproj",
+        "projectName": "conditionals_and_operators",
+        "projectPath": "/home/aramid/Proyectos/Optativa/Csharp/conditionals_and_operators/conditionals_and_operators.csproj",
         "packagesPath": "/home/aramid/.nuget/packages/",
-        "outputPath": "/home/aramid/Proyectos/Optativa/Csharp/helloWorld/obj/",
+        "outputPath": "/home/aramid/Proyectos/Optativa/Csharp/conditionals_and_operators/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/aramid/.nuget/NuGet/NuGet.Config"

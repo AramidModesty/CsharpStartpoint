@@ -1,0 +1,15 @@
+/home/aramid/Proyectos/Optativa/Csharp/final/obj/Debug/net10.0/final.GeneratedMSBuildEditorConfig.editorconfig
+/home/aramid/Proyectos/Optativa/Csharp/final/obj/Debug/net10.0/final.AssemblyInfoInputs.cache
+/home/aramid/Proyectos/Optativa/Csharp/final/obj/Debug/net10.0/final.AssemblyInfo.cs
+/home/aramid/Proyectos/Optativa/Csharp/final/obj/Debug/net10.0/final.csproj.CoreCompileInputs.cache
+/home/aramid/Proyectos/Optativa/Csharp/final/obj/Debug/net10.0/final.sourcelink.json
+/home/aramid/Proyectos/Optativa/Csharp/final/bin/Debug/net10.0/final
+/home/aramid/Proyectos/Optativa/Csharp/final/bin/Debug/net10.0/final.deps.json
+/home/aramid/Proyectos/Optativa/Csharp/final/bin/Debug/net10.0/final.runtimeconfig.json
+/home/aramid/Proyectos/Optativa/Csharp/final/bin/Debug/net10.0/final.dll
+/home/aramid/Proyectos/Optativa/Csharp/final/bin/Debug/net10.0/final.pdb
+/home/aramid/Proyectos/Optativa/Csharp/final/obj/Debug/net10.0/final.dll
+/home/aramid/Proyectos/Optativa/Csharp/final/obj/Debug/net10.0/refint/final.dll
+/home/aramid/Proyectos/Optativa/Csharp/final/obj/Debug/net10.0/final.pdb
+/home/aramid/Proyectos/Optativa/Csharp/final/obj/Debug/net10.0/final.genruntimeconfig.cache
+/home/aramid/Proyectos/Optativa/Csharp/final/obj/Debug/net10.0/ref/final.dll

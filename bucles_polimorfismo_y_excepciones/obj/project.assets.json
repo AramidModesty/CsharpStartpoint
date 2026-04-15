@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/aramid/Proyectos/Optativa/Csharp/helloWorld/helloWorld.csproj",
-      "projectName": "helloWorld",
-      "projectPath": "/home/aramid/Proyectos/Optativa/Csharp/helloWorld/helloWorld.csproj",
+      "projectUniqueName": "/home/aramid/Proyectos/Optativa/Csharp/bucles_polimorfismo_y_excepciones/bucles_polimorfismo_y_excepciones.csproj",
+      "projectName": "bucles_polimorfismo_y_excepciones",
+      "projectPath": "/home/aramid/Proyectos/Optativa/Csharp/bucles_polimorfismo_y_excepciones/bucles_polimorfismo_y_excepciones.csproj",
       "packagesPath": "/home/aramid/.nuget/packages/",
-      "outputPath": "/home/aramid/Proyectos/Optativa/Csharp/helloWorld/obj/",
+      "outputPath": "/home/aramid/Proyectos/Optativa/Csharp/bucles_polimorfismo_y_excepciones/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/aramid/.nuget/NuGet/NuGet.Config"

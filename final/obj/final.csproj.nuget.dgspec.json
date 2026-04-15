@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/aramid/Proyectos/Optativa/Csharp/helloWorld/helloWorld.csproj": {}
+    "/home/aramid/Proyectos/Optativa/Csharp/final/final.csproj": {}
   },
   "projects": {
-    "/home/aramid/Proyectos/Optativa/Csharp/helloWorld/helloWorld.csproj": {
+    "/home/aramid/Proyectos/Optativa/Csharp/final/final.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/aramid/Proyectos/Optativa/Csharp/helloWorld/helloWorld.csproj",
-        "projectName": "helloWorld",
-        "projectPath": "/home/aramid/Proyectos/Optativa/Csharp/helloWorld/helloWorld.csproj",
+        "projectUniqueName": "/home/aramid/Proyectos/Optativa/Csharp/final/final.csproj",
+        "projectName": "final",
+        "projectPath": "/home/aramid/Proyectos/Optativa/Csharp/final/final.csproj",
         "packagesPath": "/home/aramid/.nuget/packages/",
-        "outputPath": "/home/aramid/Proyectos/Optativa/Csharp/helloWorld/obj/",
+        "outputPath": "/home/aramid/Proyectos/Optativa/Csharp/final/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/aramid/.nuget/NuGet/NuGet.Config"
