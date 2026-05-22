@@ -1,6 +1,8 @@
 #CsharpStartpoint
-Para optativa 2026 del Instituto Tecnológico Metropolitano (ITM)
+Para optativa I del semestre 1 del 2026 en el
+Instituto Tecnológico Metropolitano (ITM)
+con instructor: Juan Esteban Angulo Uribe
 ##Plantilla administrada y creada por:
 -Aramid Mauricio Monsalve Usuga
-
-Esta plantilla esta sujeta a cambios y puede a su vez ser borrada
+##MyVaccineApp proveida por:
+Juan Esteban Angulo Uribe
