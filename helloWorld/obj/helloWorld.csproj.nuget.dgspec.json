@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/aramid/Proyectos/Optativa/dart/helloWorld/helloWorld.csproj": {}
+    "/home/aramid/Proyectos/Optativa/Csharp/helloWorld/helloWorld.csproj": {}
   },
   "projects": {
-    "/home/aramid/Proyectos/Optativa/dart/helloWorld/helloWorld.csproj": {
+    "/home/aramid/Proyectos/Optativa/Csharp/helloWorld/helloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/aramid/Proyectos/Optativa/dart/helloWorld/helloWorld.csproj",
+        "projectUniqueName": "/home/aramid/Proyectos/Optativa/Csharp/helloWorld/helloWorld.csproj",
         "projectName": "helloWorld",
-        "projectPath": "/home/aramid/Proyectos/Optativa/dart/helloWorld/helloWorld.csproj",
+        "projectPath": "/home/aramid/Proyectos/Optativa/Csharp/helloWorld/helloWorld.csproj",
         "packagesPath": "/home/aramid/.nuget/packages/",
-        "outputPath": "/home/aramid/Proyectos/Optativa/dart/helloWorld/obj/",
+        "outputPath": "/home/aramid/Proyectos/Optativa/Csharp/helloWorld/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/aramid/.nuget/NuGet/NuGet.Config"
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/10.0.103/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/10.0.107/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
