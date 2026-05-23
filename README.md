@@ -6,3 +6,6 @@ con instructor: Juan Esteban Angulo Uribe
 -Aramid Mauricio Monsalve Usuga
 ##MyVaccineApp proveida por:
 Juan Esteban Angulo Uribe
+#Para ejecutar la aplicación flutter:
+Vaya a flutter, abra la carpeta con vscode,
+y ejecute el archivo main.dart en la carpeta lib
